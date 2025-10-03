@@ -1,0 +1,9 @@
+[submodule "algashop-ordering"]
+	path = algashop-ordering
+	url = https://github.com/PascoalTec/algashop-ordering.git
+[submodule "docs/algashop-ordering"]
+	path = docs/algashop-ordering
+	url = https://github.com/PascoalTec/docs.git
+[submodule "microservices/ordering"]
+	path = microservices/ordering
+	url = https://github.com/PascoalTec/algashop-ordering.git
